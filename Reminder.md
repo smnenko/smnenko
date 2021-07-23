@@ -69,6 +69,19 @@ CREATE INDEX name ON table(cols);
 Isolation, Durability (Атомарность, Согласованность, 
 Изолированность, Долговечность).
 
+- Уровни транзакций  
+The transaction isolation level cannot be changed after the first query or data-modification statement (SELECT, INSERT, DELETE, UPDATE, FETCH, or COPY) of a transaction has been executed  
+The isolation level of a transaction determines what data the transaction can see when other transactions are running concurrently:
+
+- READ COMMITTED  
+A statement can only see rows committed before it began. This is the default.
+
+- REPEATABLE READ  
+All statements of the current transaction can only see rows committed before the first query or data-modification statement was executed in this transaction.
+
+- SERIALIZABLE  
+All statements of the current transaction can only see rows committed before the first query or data-modification statement was executed in this transaction. If a pattern of reads and writes among concurrent serializable transactions would create a situation which could not have occurred for any serial (one-at-a-time) execution of those transactions, one of them will be rolled back with a serialization_failure error.
+
   - Атомарность
   - Атомарность гарантирует, что любая транзакция 
 будет зафиксирована только целиком (полностью). 
