@@ -1,4 +1,4 @@
-![logo](https://github.com/smnenko/smnenko/blob/main/logo.jpg?raw=true)
+![logo](https://github.com/smnenko/smnenko/blob/main/logo.jpeg?raw=true)
 ## About me
 - **Name:** Stanislav Semenenko
 - **Birthday:** April 7, 2001
