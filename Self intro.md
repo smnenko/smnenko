@@ -14,5 +14,5 @@ Also I made some parsers with requests/selenium, games with pygame. I think you 
 Now I have strong experience with Django and DjangoREST. So I have more than 2 years of experience of Python develompent. I have experience with relation databases like PostreSQL and MySQL, I actively use docker because I need to execute my developments on laptop with Linux Manjaro and home PC with Windows. 
 
 ##### What is next?
-I'am improving my skills in different spheres like Machine Learning and non-relational databases like MongoDB. The next things what I want to learn 
-is the others web frameworks like FastAPI and Bottle. Usually, I am ready to learn something new with great interest.
+I'm improving my skills in different spheres like Machine Learning and non-relational databases like MongoDB. The next things what I want to learn 
+is the others web frameworks like FastAPI and Bottle. Usually, I'm ready to learn something new with great interest.
