@@ -11,7 +11,7 @@ Then I meet Python. And away we go. I tried some new technologies and implement 
 There's good community of Python and there wasn't a second when I couldn't find the answer to my question in the article, book or video tutorial.
 I learned Telegram and VK APIs and wrote some bots for it using pyTelegramBotApi and aiogram. 
 Also I made some parsers with requests/selenium, games with pygame. I think you know I learned Django. This is the web framework that will facilitate development process. It has his own structure. It means that is's very simple to read but inefficient for small projects.  
-Now I've strong experience with Django and DjangoREST. So I've more than 2 years of experience of Python develompent. I've experience with relation databases like PostreSQL and MySQL, I actively use docker because I need to execute my developments on laptop with Linux Manjaro and home PC with Windows. 
+Now I've strong experience with Django and DjangoREST. So I've more than 2 years experience of Python develompent. I've experience with relation databases like PostreSQL and MySQL, I actively use docker because I need to execute my developments on laptop with Linux Manjaro and home PC with Windows. 
 
 ##### What is next?
 I'm improving my skills in different spheres like Machine Learning and non-relational databases like MongoDB. The next things what I want to learn 
