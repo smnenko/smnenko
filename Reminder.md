@@ -1,3 +1,37 @@
+- OOP (object oriented programming) 
+  - It consists of 4 pillars:
+    - Encapsulation  
+      Encapsulation is accomplished when each object maintains a private state, inside a class. Other objects can not access this state directly, instead, they can only invoke a list of public functions. The object manages its own state via these functions and no other class can alter it unless explicitly allowed 
+    - Abstraction  
+      Abstraction is an extension of encapsulation. It is the process of selecting data from a larger pool to show only the relevant details to the object.
+    - Inheritance  
+      Inheritance is the ability of one object to acquire some/all properties of another object. For example, a child inherits the traits of his/her parents. With inheritance, reusability is a major advantage. You can reuse the fields and methods of the existing class. 
+    - Polymorphism  
+      Polymorphism gives us a way to use a class exactly like its parent so there is no confusion with mixing types. This being said, each child sub-class keeps its own functions/methods as they are. If we had a superclass called Mammal that has a method called mammalSound(). The sub-classes of Mammals could be Dogs, whales, elephants, and horses. Each of these would have their own iteration of a mammal sound
+
+- SOLID
+  - S - Single responsibility principle
+    A class should have one and only one reason to change, meaning that a class should have only one job.
+  - O - Open/closed principle
+    Objects or entities should be open for extension but closed for modification.
+  - L - Liskov substitution principle
+    This means that every subclass or derived class should be substitutable for their base or parent class.
+  - I - Interface segregation principle
+    A client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use.
+  - D - Dependency invertion principle
+    Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.
+
+- REST  
+  REST is acronym for REpresentational State Transfer. It is architectural style for distributed hypermedia systems
+  Like any other architectural style, REST also does have it’s own 6 guiding constraints which must be satisfied if an interface needs to be referred as RESTful. These principles are listed below.
+  - Client–server – By separating the user interface concerns from the data storage concerns, we improve the portability of the user interface across multiple platforms and improve scalability by simplifying the server components.
+  - Stateless – Each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server. Session state is therefore kept entirely on the client.
+  - Cacheable – Cache constraints require that the data within a response to a request be implicitly or explicitly labeled as cacheable or non-cacheable. If a response is cacheable, then a client cache is given the right to reuse that response data for later, equivalent requests.
+  - Uniform interface – By applying the software engineering principle of generality to the component interface, the overall system architecture is simplified and the visibility of interactions is improved. In order to obtain a uniform interface, multiple architectural constraints are needed to guide the behavior of components. REST is defined by four interface constraints: identification of resources; manipulation of resources through representations; self-descriptive messages; and, hypermedia as the engine of application state.
+  - Layered system – The layered system style allows an architecture to be composed of hierarchical layers by constraining component behavior such that each component cannot “see” beyond the immediate layer with which they are interacting.
+  - Code on demand (optional) – REST allows client functionality to be extended by downloading and executing code in the form of applets or scripts. This simplifies clients by reducing the number of features required to be pre-implemented.
+
+
 - Что такое REST?
   - REST API — это прикладной программный интерфейс (API), 
 который использует HTTP-запросы для получения, извлечения, 
