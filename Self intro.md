@@ -8,9 +8,9 @@ After that I learned many languages and technologies like *Vue.js, React.js, C/C
 
 ##### Python and Django
 Then I meet Python. And away we go. I tried some new technologies and implement a couple of Python principles. 
-There's good community of Python developers and there wasn't a second when I couldn't find the answer to my question in the article, book or video tutorial.
+There's good community of Python developers and there wasn't a second when I couldn't find the answer to my issue in the article, book or video tutorial.
 I learned Telegram and VK APIs and wrote some bots for it using pyTelegramBotApi and aiogram. 
-Also I made some parsers with requests/selenium, games with pygame. I think you know I learned Django. This is the web framework that will facilitate development process. It has his own structure. It means that is's very simple to read but inefficient for small projects.  
+Also I made some parsers with requests/selenium, games with pygame. I think you know I learned Django. This is the web framework that will facilitate development process. It has his own structure. It means that it's very simple to read but inefficient for small projects.  
 Now I've strong experience with Django and DjangoREST. So I've more than 2 years experience of Python develompent. I work with relation databases like PostreSQL and MySQL, I actively use docker because I need to execute my developments on laptop with Linux Manjaro and home PC with Windows. 
 
 ##### What is next?
