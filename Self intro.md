@@ -1,7 +1,7 @@
 ### Self introduction
 ##### Shortcut
 My name is Stas. I'm studying at *Vitebsk State Technological University (VSTU)*.  
-I started to be interested in programming when I was a 14 y.o. At first, I began to study *HTML + CSS* and created the   
+I started to be interested in programming when I was a 14 y.o. At first, I began to study *HTML + CSS* and I've created the   
 couple of pretty simple websites with animations and transitions.
 My first language of programming was Java. I learned some libraries like *JavaFX* for UI and *Spring* for implementation of REST API. 
 After that I learned many languages and technologies like *Vue.js, React.js, C/C++/C#*. I was looking for myself.
