@@ -1,4 +1,4 @@
-<img src='https://github.com/smnenko/smnenko/blob/main/logo.jpeg' width='250px' height='250px' align='right' />
+<img src='https://github.com/smnenko/smnenko/blob/master/logo.jpeg' width='250px' height='250px' align='right' />
 
 ## About me
 - **Name:** Stanislav Semenenko
