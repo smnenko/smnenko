@@ -7,7 +7,7 @@ My first language of programming was Java. I learned some libraries like *JavaFX
 After that I learned many languages and technologies like *Vue.js, React.js, C/C++/C#*. I was looking for myself.
 
 ##### Python and Django
-Then I meet Python. And away we go. I tried some new technologies and implement a couple of Python principles. 
+Then I meet Python. And away we go. I've tried some new technologies and implement a couple of Python principles. 
 There's good community of Python developers and there wasn't a second when I couldn't find the answer to my issue in the article, book or video tutorial.
 I learned Telegram and VK APIs and wrote some bots for it using pyTelegramBotApi and aiogram. 
 Also I made some parsers with requests/selenium, games with pygame. I think you know I learned Django. This is the web framework that will facilitate development process. It has his own structure. It means that it's very simple to read but inefficient for small projects.  
