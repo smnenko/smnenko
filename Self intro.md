@@ -1,7 +1,7 @@
 ### Self Introduction  
 My name is Stanislav. I'm a Software Engineer with 3 years of experience mostly focused on back-end development. 
-I’ve been developing large and scalable web-applications with Python programming language. My responsibilities include almost all aspects of backend development like infrastructure, data storage and rest api.
-I have hands-on experience with Django and DjangoREST. I also have knowledge of managing SQL-databases and asynchronous programming. I’ve also worked with the front-end side of web-development,  tools and technologies like Linux, Docker, Jenkins, Flask, FastAPI and many others.
+I’ve been developing large and scalable web-applications with Python programming language. My responsibilities include almost all aspects of backend development like infrastructure, data storage and REST API.
+I have hands-on experience with Django and DjangoREST. Also I have experience in other python libraries and frameworks such as Flask, FastAPI, SQLAlchemy, PeeWee and many others. I also have knowledge of managing SQL-databases and asynchronous programming. I’ve worked with the front-end side of web-development via Vue and React, tools and technologies like Docker, Docker Compose and Jenkins.
 My passion is refactoring legacy-code and following best programming principles.
 If you have any questions I’ll be happy to answer any of them.
 ### Last Project
@@ -25,5 +25,5 @@ The project had been running for 1 year and a half when I joined it. And it was 
 ### My biggest challenge
 I was working on a project that hadn’t been  released then yet. The app was designed to help advertising  organizations and customers to communicate with each other , build business relations and make more profit together. During our sprints we began to notice that our application was too slow and  could barely provide  comfortable work for  5 active users. It was a big problem, because our system was expected to  handle least 1000 users at the same time.
 One challenge I had was non optimized database queries. I mean queries in a loop, unreasonable joins and absence of caching. Another one challenge was a small number  of database workers. Our servers could support more workers than they used.
-I found it difficult to research the whole project to catch all non optimized queries, but I did it. But that was it.. I also did some small fixes in our project configuration file and I raised the workers count/number Another team member added caching to all highly loaded parts of our application. 
+I found it difficult to research the whole project to catch all non optimized queries, but I did it. I also did some small fixes in our project configuration file and I raised the workers count/number Another team member added caching to all highly loaded parts of our application. 
 The result was amazing. The Database was under 100% load capacity,  l and the response speed decreased by at least 40%. It was hard work, but we got extremely positive feedback throughout the whole process.
