@@ -2,7 +2,8 @@
 My name is Stanislav. I'm a Software Engineer with 3 years of experience mostly focused on back-end development. 
 I’ve been developing large and scalable web-applications with Python programming language. My responsibilities include almost all aspects of backend development like infrastructure, data storage and REST API.
 I have hands-on experience with Django, DjangoREST and Flask and in other python libraries and frameworks such as FastAPI, SQLAlchemy, PeeWee and many others. I also have knowledge of managing SQL-databases and asynchronous programming. I’ve worked with the front-end side of web-development via Vue and React, tools and technologies like Docker, Docker Compose and Jenkins.
-My passion is refactoring legacy-code and following best programming principles. As for my personal qualities, I am a responsible and very driven developer. Also, it is always a joy for me to learn something new, deconstruct and implement it into practical cases. And a lot of people I know notice my quick adaptiveness and ability to learn new stuff quite fast. That’s all about me. If you have any questions I’ll be happy to answer any of them.
+My passion is refactoring legacy-code and following best programming principles. As for my personal qualities, I am a responsible and very driven developer. Moreover, it is always a joy for me to learn something new, deconstruct and implement it into practical cases. And a lot of people I know notice my quick adaptiveness and ability to learn new stuff quite fast. That’s all about me. If you have any questions I’ll be happy to answer any of them.
+
 ### Last Project
 My last project was fully scoped within the advertising  domain with a customer from the United States. 
 The app was designed to help advertising  organizations and customers to communicate with each other , build business relations and make more profit together. 
@@ -10,6 +11,7 @@ The tech stack included Python, Django, PostgreSQL as a database management syst
 I was involved in developing new features and refactoring the existing code. I took care of the database query optimization,  code readability and scalability. 
 I dealt with the whole team, which was made up of 6 team members. There were 3 back-end, 2 front-end and 1 quality assurance engineer. 
 The project had been running for 1 year and a half when I joined it. And it was an amazing time when I gained  most of my hands-on experience in  this domain and I improved my hard skills very fast.
+
 ### Duties and Responsibilities
 1) I’m responsible for designing and implementing REST API endpoints using the Python programming language.
 2) My duties are based  on coding principles like: writing understandable, scalable and efficient code, following SOLID and OOP basics, studying new hard skills and so on. 
@@ -21,6 +23,7 @@ The project had been running for 1 year and a half when I joined it. And it was 
 8) I’m involved in enhancing the functionalities of current software systems.
 9) I’m in charge of integrating data storage solutions.
 10) I have to test and debug programs.
+
 ### My biggest challenge
 I was working on a project that hadn’t been  released then yet. The app was designed to help advertising  organizations and customers to communicate with each other , build business relations and make more profit together. During our sprints we began to notice that our application was too slow and  could barely provide  comfortable work for  5 active users. It was a big problem, because our system was expected to  handle least 1000 users at the same time.
 One challenge I had was non optimized database queries. I mean queries in a loop, unreasonable joins and absence of caching. Another one challenge was a small number  of database workers. Our servers could support more workers than they used.
