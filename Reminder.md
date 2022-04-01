@@ -114,7 +114,8 @@ serialization anomaly - The result of successfully committing a group of transac
 
 ### Constraits - NOT NULL, UNIQUE, PRIMARY KEY, FOREIGN KEY etc.
 
-### Django - It's the Python web framework that allow us to create the big e-commerse applications as fast as possible. Django follows MVT or MTV scheme of data division. It's the same to MVC.
+### Django
+It's the Python web framework that allow us to create the big e-commerse applications as fast as possible. Django follows MVT or MTV scheme of data division. It's the same to MVC.
 - M - Model - It's the single, difinitive source of information about our data. It's a class in which we define all required fields we need.
 - V - View - It's the object which takes a request and returns a reponse. There're two possible types of views. They are function-based view and class-based views.
 - T - Template - It's a text documents that consists of html tags and django tags which interpreted by django template engine. 
