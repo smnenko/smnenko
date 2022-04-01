@@ -1,7 +1,7 @@
 ### Self Introduction  
 My name is Stanislav. I'm a Software Engineer with 3 years of experience mostly focused on back-end development. 
 I’ve been developing large and scalable web-applications with Python programming language. My responsibilities include almost all aspects of backend development like infrastructure, data storage and REST API.
-I have hands-on experience with Django and DjangoREST. Also I have experience in other python libraries and frameworks such as Flask, FastAPI, SQLAlchemy, PeeWee and many others. I also have knowledge of managing SQL-databases and asynchronous programming. I’ve worked with the front-end side of web-development via Vue and React, tools and technologies like Docker, Docker Compose and Jenkins.
+I have hands-on experience with Django, DjangoREST and Flask and in other python libraries and frameworks such as FastAPI, SQLAlchemy, PeeWee and many others. I also have knowledge of managing SQL-databases and asynchronous programming. I’ve worked with the front-end side of web-development via Vue and React, tools and technologies like Docker, Docker Compose and Jenkins.
 My passion is refactoring legacy-code and following best programming principles.
 If you have any questions I’ll be happy to answer any of them.
 ### Last Project
